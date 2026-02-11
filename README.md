@@ -22,3 +22,6 @@ This is a local, post-shot analysis prototype:
 
 
 If a GitHub build fails, download the **build-log** artifact and share the last lines.
+
+
+Build fix: uses CameraX 1.4.0 to remain compatible with compileSdk 34.
